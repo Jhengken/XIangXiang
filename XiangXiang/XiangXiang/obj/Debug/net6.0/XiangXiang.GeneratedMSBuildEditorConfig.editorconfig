@@ -5,124 +5,80 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
-build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = XiangXiang
 build_property.RootNamespace = XiangXiang
-<<<<<<< HEAD
-build_property.ProjectDir = C:\Users\iSpan\Desktop\真期末專題\XiangXiang\XiangXiang\
+build_property.ProjectDir = C:\Users\林宥辰\Desktop\真期末專題\XiangXiang\XiangXiang\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\iSpan\Desktop\真期末專題\XiangXiang\XiangXiang
+build_property.MSBuildProjectDirectory = C:\Users\林宥辰\Desktop\真期末專題\XiangXiang\XiangXiang
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/iSpan/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Advertise/Create.cshtml]
+[C:/Users/林宥辰/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Advertise/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2ZXJ0aXNlXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/iSpan/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Advertise/Edit.cshtml]
+[C:/Users/林宥辰/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Advertise/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2ZXJ0aXNlXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/iSpan/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Advertise/List.cshtml]
+[C:/Users/林宥辰/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Advertise/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2ZXJ0aXNlXExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/iSpan/Desktop/真期末專題/XiangXiang/XiangXiang/Views/AOrder/Create.cshtml]
+[C:/Users/林宥辰/Desktop/真期末專題/XiangXiang/XiangXiang/Views/AOrder/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQU9yZGVyXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/iSpan/Desktop/真期末專題/XiangXiang/XiangXiang/Views/AOrder/List.cshtml]
+[C:/Users/林宥辰/Desktop/真期末專題/XiangXiang/XiangXiang/Views/AOrder/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQU9yZGVyXExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/iSpan/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/iSpan/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/iSpan/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Manager/List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxMaXN0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/iSpan/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Product/List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/iSpan/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/iSpan/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/iSpan/Desktop/真期末專題/XiangXiang/XiangXiang/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/iSpan/Desktop/真期末專題/XiangXiang/XiangXiang/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/iSpan/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Shared/_Layout.cshtml]
-=======
-build_property.ProjectDir = C:\Users\iSpan\Desktop\XiangXiang\XIangXiang\XiangXiang\
-build_property.RazorLangVersion = 6.0
-build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\iSpan\Desktop\XiangXiang\XIangXiang\XiangXiang
-build_property._RazorSourceGeneratorDebug = 
-
-[C:/Users/iSpan/Desktop/XiangXiang/XIangXiang/XiangXiang/Views/Customer/List.cshtml]
+[C:/Users/林宥辰/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Customer/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/iSpan/Desktop/XiangXiang/XIangXiang/XiangXiang/Views/Home/Index.cshtml]
+[C:/Users/林宥辰/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/iSpan/Desktop/XiangXiang/XIangXiang/XiangXiang/Views/Home/Privacy.cshtml]
+[C:/Users/林宥辰/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/iSpan/Desktop/XiangXiang/XIangXiang/XiangXiang/Views/Manager/List.cshtml]
+[C:/Users/林宥辰/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Manager/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/iSpan/Desktop/XiangXiang/XIangXiang/XiangXiang/Views/Product/List.cshtml]
+[C:/Users/林宥辰/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Product/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/iSpan/Desktop/XiangXiang/XIangXiang/XiangXiang/Views/Product/Login.cshtml]
+[C:/Users/林宥辰/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Product/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/iSpan/Desktop/XiangXiang/XIangXiang/XiangXiang/Views/Product/ProductCreate.cshtml]
+[C:/Users/林宥辰/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Product/ProductCreate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0Q3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/iSpan/Desktop/XiangXiang/XIangXiang/XiangXiang/Views/Shared/Error.cshtml]
+[C:/Users/林宥辰/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/iSpan/Desktop/XiangXiang/XIangXiang/XiangXiang/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/林宥辰/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/iSpan/Desktop/XiangXiang/XIangXiang/XiangXiang/Views/_ViewImports.cshtml]
+[C:/Users/林宥辰/Desktop/真期末專題/XiangXiang/XiangXiang/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/iSpan/Desktop/XiangXiang/XIangXiang/XiangXiang/Views/_ViewStart.cshtml]
+[C:/Users/林宥辰/Desktop/真期末專題/XiangXiang/XiangXiang/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/iSpan/Desktop/XiangXiang/XIangXiang/XiangXiang/Views/Shared/_Layout.cshtml]
->>>>>>> b81145f368c004cbdfaa1216f2953b45f77d7158
+[C:/Users/林宥辰/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-mneh55ffgl

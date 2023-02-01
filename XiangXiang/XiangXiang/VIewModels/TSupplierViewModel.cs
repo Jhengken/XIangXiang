@@ -1,4 +1,6 @@
-﻿using XiangXiang.Models;
+﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using System.Security.Cryptography.X509Certificates;
+using XiangXiang.Models;
 
 namespace XiangXiang.VIewModels
 {
@@ -12,7 +14,7 @@ namespace XiangXiang.VIewModels
             set { _supplier = value; }
         }
 
-        public TSupplierViewModel() 
+        public TSupplierViewModel()
         {
             _supplier = new TSupplier();
         }
@@ -28,5 +30,7 @@ namespace XiangXiang.VIewModels
 
         public virtual ICollection<TAorder> TAorders { get { return _supplier.TAorders; } set { _supplier.TAorders = value; } }
         public virtual ICollection<TProduct> TProducts { get { return _supplier.TProducts; } set { _supplier.TProducts = value; } }
+
+
     }
 }

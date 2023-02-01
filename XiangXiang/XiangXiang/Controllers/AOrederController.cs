@@ -32,16 +32,14 @@ namespace XiangXiang.Controllers
 
         //創建廣告訂單
         public IActionResult Create()
-        {
-                       
+        {                       
             return View();
         }
         [HttpPost]
         public IActionResult Create(TAorder aorder)
-        {
-            
+        {           
             db.TAorders.Add(aorder);
-            db.SaveChangesAsync();
+            db.SaveChanges();
             return RedirectToAction("List");
         }
 
