@@ -4,10 +4,10 @@
     ViewData["Title"] = "List";
 }
 
-<h1>供應商一覽表</h1>
+<h1>業者資料一覽表</h1>
 
 <p>
-    <a asp-action="Create">供應商註冊</a>
+    <a asp-action="Create">業者註冊</a>
 </p>
 <table class="table">
     <thead>
@@ -70,8 +70,8 @@
                 @Html.DisplayFor(modelItem => item.BlackListed)
             </td>
             <td>
-                @Html.ActionLink("Edit", "修改", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "刪除", new { /* id=item.PrimaryKey */ })
+                 @Html.ActionLink("修改", "Edit", new { id=item.SupplierId}) |
+                 @Html.ActionLink("刪除", "Delete","Supplier", new {id=item.SupplierId},new{onclick="return confirm('確定要刪除嗎?')"})
             </td>
         </tr>
 }

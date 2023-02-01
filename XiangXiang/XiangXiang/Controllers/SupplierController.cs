@@ -33,6 +33,51 @@ namespace XiangXiang.Controllers
             return RedirectToAction("List");
         }
 
+        [HttpPost]
+        public ActionResult Edit(TSupplier p)
+        {
+            dbXContext db = new dbXContext();
+            TSupplier x = _conetxt.TSuppliers.FirstOrDefault(t => t.SupplierId == p.SupplierId);
+            if (x != null)
+            {
+
+                x.Name = p.Name;
+                x.Email = p.Email;
+                x.Phone = p.Phone;
+                x.Password = p.Password;
+                x.Address = p.Address;
+                x.CreditPoints = p.CreditPoints;
+                _conetxt.SaveChangesAsync();
+
+            }
+            return RedirectToAction("List");
+        }
+        public ActionResult Edit(int? id)
+        {
+            if (id != null)
+            {
+                dbXContext db = new dbXContext();
+                TSupplier x = _conetxt.TSuppliers.FirstOrDefault(t => t.SupplierId == id);
+                if (x != null)
+                    return View(x);
+            }
+            return RedirectToAction("List");
+        }
+
+        public ActionResult Delete(int? id)
+        {
+            if (id != null)
+            {
+                dbXContext db = new dbXContext();
+                TSupplier delSupplier = _conetxt.TSuppliers.FirstOrDefault(t => t.SupplierId == id);
+                if (delSupplier != null)
+                {
+                    _conetxt.TSuppliers.Remove(delSupplier);
+                    _conetxt.SaveChangesAsync();
+                }
+            }
+            return RedirectToAction("List");
+        }
 
     }
 }

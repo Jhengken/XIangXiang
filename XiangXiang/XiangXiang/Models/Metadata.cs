@@ -296,7 +296,7 @@ namespace XiangXiang.Models
         }
 
         public int SupplierId { get; set; }
-        [DisplayName("供應商名稱")]
+        [DisplayName("業者名稱")]
         public string Name { get; set; } = null!;
         public string? Email { get; set; }
         [DisplayName("電話號碼")]
