@@ -1,12 +1,17 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using XiangXiang.Models;
 
 namespace XiangXiang.Controllers
 {
     public class ManagerController : Controller
     {
-        public IActionResult Index()
+        public IActionResult List()
         {
-            return View();
+            IEnumerable<TManager> data = null;
+            dbXContext db = new dbXContext();
+            data = from t in db.TManagers
+                   select t;
+            return View(data);
         }
     }
 }

@@ -5,7 +5,6 @@ namespace XiangXiang.Controllers
 {
     public class ProductController : Controller
     {
-
         public IActionResult List()
         {
             IEnumerable<TProduct> data = null;
