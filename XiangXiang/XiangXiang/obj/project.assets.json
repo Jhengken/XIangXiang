@@ -10052,32 +10052,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\iSpan\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\hpu97\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\XiangXiang.csproj",
+      "projectUniqueName": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\XiangXiang.csproj",
       "projectName": "XiangXiang",
-      "projectPath": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\XiangXiang.csproj",
-      "packagesPath": "C:\\Users\\iSpan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\iSpan\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\XiangXiang.csproj",
-      "projectName": "XiangXiang",
-      "projectPath": "C:\\Users\\iSpan\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\XiangXiang.csproj",
-      "packagesPath": "C:\\Users\\iSpan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iSpan\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\obj\\",
->>>>>>> b81145f368c004cbdfaa1216f2953b45f77d7158
+      "projectPath": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\XiangXiang.csproj",
+      "packagesPath": "C:\\Users\\hpu97\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\iSpan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\hpu97\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10085,7 +10072,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10142,11 +10128,7 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
->>>>>>> b81145f368c004cbdfaa1216f2953b45f77d7158
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

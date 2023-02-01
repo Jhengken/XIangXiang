@@ -1,10 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.CodeAnalysis;
 using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 
 namespace XiangXiang.Models
 {
-    public class TProductMetadata          //TProductMetadata
+    public class TProductMetadata
     {
         public TProductMetadata()
         {
@@ -13,25 +14,20 @@ namespace XiangXiang.Models
         }
 
         public int ProductId { get; set; }
+
         public int? SupplierId { get; set; }
-
         [DisplayName("註冊商品名稱")]
-
+        [Required(ErrorMessage = "{0}不可為空!")]
         public string Name { get; set; } = null!;
 
         public virtual TSupplier? Supplier { get; set; }
         public virtual ICollection<TCorder> TCorders { get; set; }
         public virtual ICollection<TPsite> TPsites { get; set; }
     }
-    [ModelMetadataType(typeof(TProductMetadata))]
-    public partial class TProduct
-    {
-    }
 
 
 
-
-    public class TPsiteRoomMetadata          //TPsiteRoomMetadata
+    public class TPsiteRoomMetadata
     {
         public TPsiteRoomMetadata()
         {
@@ -61,14 +57,11 @@ namespace XiangXiang.Models
         public virtual ICollection<TCorderDetail> TCorderDetails { get; set; }
         public virtual ICollection<TEvaluation> TEvaluations { get; set; }
     }
-    [ModelMetadataType(typeof(TPsiteRoomMetadata))]
-    public partial class TPsiteRoom
-    {
-    }
 
 
 
-    public class TPsiteMetadata          //TPsiteMetadata
+
+    public class TPsiteMetadata
     {
         public TPsiteMetadata()
         {
@@ -90,33 +83,25 @@ namespace XiangXiang.Models
         public virtual TProduct? Product { get; set; }
         public virtual ICollection<TPsiteRoom> TPsiteRooms { get; set; }
     }
-    [ModelMetadataType(typeof(TPsiteMetadata))]
-    public partial class TPsite
-    {
-    }
 
 
-    
-    public class TAdvertiseMetaData 
+
+
+    public class TAdvertiseMetadata
     {
-        public TAdvertiseMetaData()
+        public TAdvertiseMetadata()
         {
             TAorders = new HashSet<TAorder>();
         }
+
         public int AdvertiseId { get; set; }
         [DisplayName("廣告類型")]
         public string Name { get; set; } = null!;
-        [DisplayName("每日租金")]
-
         public decimal? DatePrice { get; set; }
 
         public virtual ICollection<TAorder> TAorders { get; set; }
     }
 
-    [ModelMetadataType(typeof(TAdvertiseMetaData))]
-    public partial class TAdvertise
-    {
-    }
 
 
 
@@ -133,10 +118,7 @@ namespace XiangXiang.Models
         public virtual TAdvertise? Advertise { get; set; }
         public virtual TSupplier? Supplier { get; set; }
     }
-    [ModelMetadataType(typeof(TAorderMetadata))]
-    public partial class TAorder
-    {
-    }
+
 
 
 
@@ -153,10 +135,7 @@ namespace XiangXiang.Models
 
         public virtual ICollection<TPsiteRoom> TPsiteRooms { get; set; }
     }
-    [ModelMetadataType(typeof(TCategoryMetadata))]
-    public partial class TCategory
-    {
-    }
+
 
 
 
@@ -174,10 +153,7 @@ namespace XiangXiang.Models
         public virtual TCustomer? Customer { get; set; }
         public virtual TProduct? Product { get; set; }
     }
-    [ModelMetadataType(typeof(TCorderMetadata))]
-    public partial class TCorder
-    {
-    }
+
 
 
 
@@ -191,10 +167,7 @@ namespace XiangXiang.Models
         public virtual TCoupon? Coupon { get; set; }
         public virtual TPsiteRoom? Room { get; set; }
     }
-    [ModelMetadataType(typeof(TCorderDetailMetadata))]
-    public partial class TCorderDetail
-    {
-    }
+
 
 
 
@@ -216,10 +189,7 @@ namespace XiangXiang.Models
 
         public virtual ICollection<TCorderDetail> TCorderDetails { get; set; }
     }
-    [ModelMetadataType(typeof(TCouponMetadata))]
-    public partial class TCoupon
-    {
-    }
+
 
 
 
@@ -246,10 +216,7 @@ namespace XiangXiang.Models
         public virtual ICollection<TCorder> TCorders { get; set; }
         public virtual ICollection<TEvaluation> TEvaluations { get; set; }
     }
-    [ModelMetadataType(typeof(TCustomerMetadata))]
-    public partial class TCustomer
-    {
-    }
+
 
 
 
@@ -269,10 +236,7 @@ namespace XiangXiang.Models
         public virtual TCustomer? Customer { get; set; }
         public virtual TPsiteRoom? Room { get; set; }
     }
-    [ModelMetadataType(typeof(TEvaluationMetadata))]
-    public partial class TEvaluation
-    {
-    }
+
 
 
 
@@ -285,10 +249,7 @@ namespace XiangXiang.Models
         public string? Phone { get; set; }
         public string? Password { get; set; }
     }
-    [ModelMetadataType(typeof(TManagerMetadata))]
-    public partial class TManager
-    {
-    }
+
 
 
 
@@ -314,9 +275,6 @@ namespace XiangXiang.Models
         public virtual ICollection<TProduct> TProducts { get; set; }
     }
 
-    [ModelMetadataType(typeof(TSupplierMetadata))]
-    public partial class TSupplier
-    {
-    }
+
 
 }
