@@ -15,7 +15,7 @@
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 @Html.DisplayNameFor(model => Model.Supplier.Name)
-                @Html.DropDownListFor(Model=> Model.Supplier.Name,new SelectList((IEnumerable<TAorder>)ViewBag.,nameof(Model.Supplier.SupplierId),nameof(Model.Supplier.Name)))
+               
             </div>
             <div class="form-group">
                 <label asp-for="AdvertiseId" class="control-label"></label>
