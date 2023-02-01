@@ -16,6 +16,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\iSpan\Desktop\真期末專題\XiangXiang\XiangXiang
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/iSpan/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Advertise/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2ZXJ0aXNlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iSpan/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Advertise/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2ZXJ0aXNlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iSpan/Desktop/真期末專題/XiangXiang/XiangXiang/Views/Advertise/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2ZXJ0aXNlXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/iSpan/Desktop/真期末專題/XiangXiang/XiangXiang/Views/AOrder/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQU9yZGVyXExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
