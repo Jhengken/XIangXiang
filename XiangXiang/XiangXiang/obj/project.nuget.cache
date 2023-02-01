@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iIQ1QdHGParyLezRt33nYJ4A5TSVPxClJxdi9BbkktBYlzBOS0/uB5xL2QYT4RiBt61URKSO3nsJl10nBmPSXA==",
+  "dgSpecHash": "SPjN9r5jIUxY09CXBL113T2dGBegfsaHqddCh6pM3JcsFR1FKuyV/KIT5aF4fKI9hERgWIhVGvdOi+ZeKndx+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\XiangXiang.csproj",
+  "projectFilePath": "C:\\Users\\iSpan\\OneDrive\\桌面\\XiangXiang\\XiangXiang\\XiangXiang\\XiangXiang.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iSpan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\iSpan\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

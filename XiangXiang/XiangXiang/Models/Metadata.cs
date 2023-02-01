@@ -299,10 +299,15 @@ namespace XiangXiang.Models
         [DisplayName("供應商名稱")]
         public string Name { get; set; } = null!;
         public string? Email { get; set; }
+        [DisplayName("電話號碼")]
         public string? Phone { get; set; }
+        [DisplayName("密碼")]
         public string? Password { get; set; }
+        [DisplayName("地址")]
         public string? Address { get; set; }
+        [DisplayName("信用積分")]
         public int? CreditPoints { get; set; }
+        [DisplayName("黑名單")]
         public bool? BlackListed { get; set; }
 
         public virtual ICollection<TAorder> TAorders { get; set; }
