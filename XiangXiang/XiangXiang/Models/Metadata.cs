@@ -201,6 +201,7 @@ namespace XiangXiang.Models
         }
 
         public int CouponId { get; set; }
+        [DisplayName("優惠卷代碼")]
         public string? Code { get; set; }
         [DisplayName("折扣(輸入整數，ex：85折輸入85)")]
         public decimal? Discount { get; set; }
