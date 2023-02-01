@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iSpan\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\XiangXiang.csproj": {}
+    "C:\\Users\\iSpan\\OneDrive\\桌面\\專案\\XIangXiang\\XiangXiang\\XiangXiang\\XiangXiang.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iSpan\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\XiangXiang.csproj": {
+    "C:\\Users\\iSpan\\OneDrive\\桌面\\專案\\XIangXiang\\XiangXiang\\XiangXiang\\XiangXiang.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iSpan\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\XiangXiang.csproj",
+        "projectUniqueName": "C:\\Users\\iSpan\\OneDrive\\桌面\\專案\\XIangXiang\\XiangXiang\\XiangXiang\\XiangXiang.csproj",
         "projectName": "XiangXiang",
-        "projectPath": "C:\\Users\\iSpan\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\XiangXiang.csproj",
+        "projectPath": "C:\\Users\\iSpan\\OneDrive\\桌面\\專案\\XIangXiang\\XiangXiang\\XiangXiang\\XiangXiang.csproj",
         "packagesPath": "C:\\Users\\iSpan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iSpan\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\obj\\",
+        "outputPath": "C:\\Users\\iSpan\\OneDrive\\桌面\\專案\\XIangXiang\\XiangXiang\\XiangXiang\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
