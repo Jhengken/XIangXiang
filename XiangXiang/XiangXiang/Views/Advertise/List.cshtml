@@ -1,0 +1,48 @@
+﻿@model IEnumerable<XiangXiang.Models.TAdvertise>
+
+@{
+    ViewData["Title"] = "List";
+}
+
+<h1>廣告類型清單</h1>
+
+<p>
+    <a asp-action="Create">創建廣告類型</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                序號
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DatePrice)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int count = 0;
+            foreach (var item in Model) {
+                count++;
+                <tr>
+            <td>
+                @count
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DatePrice)
+            </td>
+            <td>
+                @Html.ActionLink("編輯", "Edit", new {  id=item.AdvertiseId  })               
+            </td>
+        </tr>
+}}
+    </tbody>
+</table>

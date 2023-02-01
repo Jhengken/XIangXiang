@@ -10058,11 +10058,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\XiangXiang.csproj",
       "projectName": "XiangXiang",
       "projectPath": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\XiangXiang.csproj",
       "packagesPath": "C:\\Users\\iSpan\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\XiangXiang.csproj",
+      "projectName": "XiangXiang",
+      "projectPath": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\XiangXiang.csproj",
+      "packagesPath": "C:\\Users\\iSpan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\obj\\",
+>>>>>>> develop-ads
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -10134,7 +10142,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+>>>>>>> develop-ads
       }
     }
   }
