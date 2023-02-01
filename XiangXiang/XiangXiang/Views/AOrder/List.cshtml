@@ -16,13 +16,10 @@
                 @Html.DisplayNameFor(model => model.AorderId)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.SupplierId)
-            </th>
-            <th>
                 @Html.DisplayNameFor(model => model.Supplier.Name)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.AdvertiseId)
+                @Html.DisplayNameFor(model => model.Advertise.Name)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.OrderDate)
@@ -46,13 +43,10 @@
                 @Html.DisplayFor(modelItem => item.AorderId)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.SupplierId)
+                @Html.DisplayFor(modelItem => item.Supplier.Name)
             </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Supplier.Name)
-                </td>
             <td>
-                @Html.DisplayFor(modelItem => item.AdvertiseId)
+                @Html.DisplayFor(modelItem => item.Advertise.Name)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.OrderDate)

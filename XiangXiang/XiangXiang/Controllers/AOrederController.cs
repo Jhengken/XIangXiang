@@ -1,14 +1,20 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore.Scaffolding.Metadata;
 using XiangXiang.Models;
 
 namespace XiangXiang.Controllers
 {
     public class AOrderController : Controller
     {
+        private readonly dbXContext db;
+        public AOrderController(dbXContext dbXContext) 
+        {
+            db = dbXContext;
+        }
         public IActionResult List()
         {
             IEnumerable<TAorder> aorders = null;            
-            dbXContext db = new dbXContext();
             aorders = from t in db.TAorders select new TAorder
                       {
                           AorderId = t.AorderId,
@@ -17,10 +23,27 @@ namespace XiangXiang.Controllers
                           OrderDate = t.OrderDate,
                           EndDate = t.EndDate,
                           Clicks = t.Clicks,
+                          Price= t.Price,
                           Advertise = t.Advertise,
                           Supplier = t.Supplier,
                       };
             return View(aorders);
         }
+
+        //創建廣告訂單
+        public IActionResult Create()
+        {
+                       
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Create(TAorder aorder)
+        {
+            
+            db.TAorders.Add(aorder);
+            db.SaveChangesAsync();
+            return RedirectToAction("List");
+        }
+
     }
 }

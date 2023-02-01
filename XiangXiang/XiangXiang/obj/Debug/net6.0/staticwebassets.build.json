@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "sBvLxCfPuXQFtX49XOIB3I3Seon76ZRa6jbMxLIKKsA=",
-=======
-  "Hash": "LeoFBDzXO6O4jBKMcCXb9AEzTQTnV7Q4yojEg17Em0k=",
->>>>>>> develop-ads
+  "Hash": "z6Yr2EoQIDauF9c6VQ4Xr3DYGx5g12dKCt2MKPIARMg=",
   "Source": "XiangXiang",
   "BasePath": "_content/XiangXiang",
   "Mode": "Default",
@@ -14,28 +10,17 @@
     {
       "Name": "XiangXiang\\wwwroot",
       "Source": "XiangXiang",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\obj\\Debug\\net6.0\\scopedcss\\bundle\\XiangXiang.styles.css",
-      "SourceId": "XiangXiang",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\obj\\Debug\\net6.0\\scopedcss\\bundle\\XiangXiang.styles.css",
       "SourceId": "XiangXiang",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "XiangXiang.styles.css",
       "AssetKind": "All",
@@ -46,15 +31,6 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\obj\\Debug\\net6.0\\scopedcss\\bundle\\XiangXiang.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\XiangXiang.bundle.scp.css",
-      "SourceId": "XiangXiang",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-=======
       "OriginalItemSpec": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\obj\\Debug\\net6.0\\scopedcss\\bundle\\XiangXiang.styles.css"
     },
     {
@@ -62,7 +38,6 @@
       "SourceId": "XiangXiang",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "XiangXiang.bundle.scp.css",
       "AssetKind": "All",
@@ -73,14 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\XiangXiang.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\XiangXiang.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\css\\bootstrap.min.css",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -94,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\css\\bootstrap.min.css.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -111,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\css\\paper-dashboard.css",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\css\\paper-dashboard.css",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/css/paper-dashboard.css",
       "AssetKind": "All",
@@ -128,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\paper-dashboard.css"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\css\\paper-dashboard.css.map",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\css\\paper-dashboard.css.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/css/paper-dashboard.css.map",
       "AssetKind": "All",
@@ -145,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\paper-dashboard.css.map"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\css\\paper-dashboard.min.css",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\css\\paper-dashboard.min.css",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/css/paper-dashboard.min.css",
       "AssetKind": "All",
@@ -162,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\paper-dashboard.min.css"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\demo\\demo.css",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\demo\\demo.css",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/demo/demo.css",
       "AssetKind": "All",
@@ -179,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\demo\\demo.css"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\demo\\demo.js",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\demo\\demo.js",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/demo/demo.js",
       "AssetKind": "All",
@@ -196,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\demo\\demo.js"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\fonts\\nucleo-icons.eot",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\fonts\\nucleo-icons.eot",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/fonts/nucleo-icons.eot",
       "AssetKind": "All",
@@ -213,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\nucleo-icons.eot"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\fonts\\nucleo-icons.ttf",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\fonts\\nucleo-icons.ttf",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/fonts/nucleo-icons.ttf",
       "AssetKind": "All",
@@ -230,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\nucleo-icons.ttf"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\fonts\\nucleo-icons.woff",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\fonts\\nucleo-icons.woff",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/fonts/nucleo-icons.woff",
       "AssetKind": "All",
@@ -247,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\nucleo-icons.woff"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\fonts\\nucleo-icons.woff2",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\fonts\\nucleo-icons.woff2",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/fonts/nucleo-icons.woff2",
       "AssetKind": "All",
@@ -264,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\nucleo-icons.woff2"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\apple-icon.png",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\img\\apple-icon.png",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/apple-icon.png",
       "AssetKind": "All",
@@ -281,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\apple-icon.png"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\bg5.jpg",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\img\\bg5.jpg",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/bg5.jpg",
       "AssetKind": "All",
@@ -298,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\bg5.jpg"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\damir-bosnjak.jpg",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\img\\damir-bosnjak.jpg",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/damir-bosnjak.jpg",
       "AssetKind": "All",
@@ -315,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\damir-bosnjak.jpg"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\default-avatar.png",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\img\\default-avatar.png",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/default-avatar.png",
       "AssetKind": "All",
@@ -332,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\default-avatar.png"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\ayo-ogunseinde-1.jpg",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\ayo-ogunseinde-1.jpg",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/faces/ayo-ogunseinde-1.jpg",
       "AssetKind": "All",
@@ -349,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\faces\\ayo-ogunseinde-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\ayo-ogunseinde-2.jpg",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\ayo-ogunseinde-2.jpg",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/faces/ayo-ogunseinde-2.jpg",
       "AssetKind": "All",
@@ -366,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\faces\\ayo-ogunseinde-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\clem-onojeghuo-1.jpg",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\clem-onojeghuo-1.jpg",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/faces/clem-onojeghuo-1.jpg",
       "AssetKind": "All",
@@ -383,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\faces\\clem-onojeghuo-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\clem-onojeghuo-2.jpg",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\clem-onojeghuo-2.jpg",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/faces/clem-onojeghuo-2.jpg",
       "AssetKind": "All",
@@ -400,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\faces\\clem-onojeghuo-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\clem-onojeghuo-3.jpg",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\clem-onojeghuo-3.jpg",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/faces/clem-onojeghuo-3.jpg",
       "AssetKind": "All",
@@ -417,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\faces\\clem-onojeghuo-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\clem-onojeghuo-4.jpg",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\clem-onojeghuo-4.jpg",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/faces/clem-onojeghuo-4.jpg",
       "AssetKind": "All",
@@ -434,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\faces\\clem-onojeghuo-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\erik-lucatero-1.jpg",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\erik-lucatero-1.jpg",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/faces/erik-lucatero-1.jpg",
       "AssetKind": "All",
@@ -451,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\faces\\erik-lucatero-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\erik-lucatero-2.jpg",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\erik-lucatero-2.jpg",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/faces/erik-lucatero-2.jpg",
       "AssetKind": "All",
@@ -468,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\faces\\erik-lucatero-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\joe-gardner-1.jpg",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\joe-gardner-1.jpg",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/faces/joe-gardner-1.jpg",
       "AssetKind": "All",
@@ -485,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\faces\\joe-gardner-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\joe-gardner-2.jpg",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\joe-gardner-2.jpg",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/faces/joe-gardner-2.jpg",
       "AssetKind": "All",
@@ -502,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\faces\\joe-gardner-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\kaci-baum-1.jpg",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\kaci-baum-1.jpg",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/faces/kaci-baum-1.jpg",
       "AssetKind": "All",
@@ -519,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\faces\\kaci-baum-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\kaci-baum-2.jpg",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\kaci-baum-2.jpg",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/faces/kaci-baum-2.jpg",
       "AssetKind": "All",
@@ -536,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\faces\\kaci-baum-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\favicon.png",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\img\\favicon.png",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/favicon.png",
       "AssetKind": "All",
@@ -553,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\header.jpg",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\img\\header.jpg",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/header.jpg",
       "AssetKind": "All",
@@ -570,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\header.jpg"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\jan-sendereks.jpg",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\img\\jan-sendereks.jpg",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/jan-sendereks.jpg",
       "AssetKind": "All",
@@ -587,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\jan-sendereks.jpg"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\logo-small.png",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\img\\logo-small.png",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/logo-small.png",
       "AssetKind": "All",
@@ -604,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo-small.png"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\mike.jpg",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\img\\mike.jpg",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/mike.jpg",
       "AssetKind": "All",
@@ -621,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\mike.jpg"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/js/core/bootstrap.min.js",
       "AssetKind": "All",
@@ -638,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\core\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\js\\core\\jquery.min.js",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\js\\core\\jquery.min.js",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/js/core/jquery.min.js",
       "AssetKind": "All",
@@ -655,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\core\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\js\\core\\popper.min.js",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\js\\core\\popper.min.js",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/js/core/popper.min.js",
       "AssetKind": "All",
@@ -672,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\core\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\js\\paper-dashboard.js",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\js\\paper-dashboard.js",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/js/paper-dashboard.js",
       "AssetKind": "All",
@@ -689,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\paper-dashboard.js"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\js\\paper-dashboard.js.map",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\js\\paper-dashboard.js.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/js/paper-dashboard.js.map",
       "AssetKind": "All",
@@ -706,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\paper-dashboard.js.map"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\js\\paper-dashboard.min.js",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\js\\paper-dashboard.min.js",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/js/paper-dashboard.min.js",
       "AssetKind": "All",
@@ -723,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\paper-dashboard.min.js"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\js\\plugins\\bootstrap-notify.js",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\js\\plugins\\bootstrap-notify.js",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/js/plugins/bootstrap-notify.js",
       "AssetKind": "All",
@@ -740,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\bootstrap-notify.js"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/js/plugins/chartjs.min.js",
       "AssetKind": "All",
@@ -757,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\chartjs.min.js"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.jquery.min.js",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.jquery.min.js",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/js/plugins/perfect-scrollbar.jquery.min.js",
       "AssetKind": "All",
@@ -774,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\perfect-scrollbar.jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard.scss",
       "AssetKind": "All",
@@ -791,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_alerts.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_alerts.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/_alerts.scss",
       "AssetKind": "All",
@@ -808,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\_alerts.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_animated-buttons.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_animated-buttons.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/_animated-buttons.scss",
       "AssetKind": "All",
@@ -825,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\_animated-buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_buttons.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_buttons.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/_buttons.scss",
       "AssetKind": "All",
@@ -842,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_cards.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_cards.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/_cards.scss",
       "AssetKind": "All",
@@ -859,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\_cards.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_checkboxes-radio.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_checkboxes-radio.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/_checkboxes-radio.scss",
       "AssetKind": "All",
@@ -876,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\_checkboxes-radio.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_dropdown.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_dropdown.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/_dropdown.scss",
       "AssetKind": "All",
@@ -893,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\_dropdown.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_fixed-plugin.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_fixed-plugin.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/_fixed-plugin.scss",
       "AssetKind": "All",
@@ -910,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\_fixed-plugin.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_footers.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_footers.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/_footers.scss",
       "AssetKind": "All",
@@ -927,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\_footers.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_images.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_images.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/_images.scss",
       "AssetKind": "All",
@@ -944,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\_images.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_inputs.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_inputs.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/_inputs.scss",
       "AssetKind": "All",
@@ -961,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\_inputs.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_misc.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_misc.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/_misc.scss",
       "AssetKind": "All",
@@ -978,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\_misc.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_mixins.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_mixins.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/_mixins.scss",
       "AssetKind": "All",
@@ -995,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_navbar.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_navbar.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/_navbar.scss",
       "AssetKind": "All",
@@ -1012,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\_navbar.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_nucleo-outline.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_nucleo-outline.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/_nucleo-outline.scss",
       "AssetKind": "All",
@@ -1029,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\_nucleo-outline.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_page-header.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_page-header.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/_page-header.scss",
       "AssetKind": "All",
@@ -1046,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\_page-header.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_responsive.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_responsive.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/_responsive.scss",
       "AssetKind": "All",
@@ -1063,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\_responsive.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_sidebar-and-main-panel.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_sidebar-and-main-panel.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/_sidebar-and-main-panel.scss",
       "AssetKind": "All",
@@ -1080,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\_sidebar-and-main-panel.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_tables.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_tables.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/_tables.scss",
       "AssetKind": "All",
@@ -1097,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\_tables.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_typography.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_typography.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/_typography.scss",
       "AssetKind": "All",
@@ -1114,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\_typography.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_variables.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_variables.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/_variables.scss",
       "AssetKind": "All",
@@ -1131,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-chart.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-chart.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/cards/_card-chart.scss",
       "AssetKind": "All",
@@ -1148,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-chart.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-map.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-map.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/cards/_card-map.scss",
       "AssetKind": "All",
@@ -1165,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-map.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-plain.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-plain.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/cards/_card-plain.scss",
       "AssetKind": "All",
@@ -1182,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-plain.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-stats.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-stats.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/cards/_card-stats.scss",
       "AssetKind": "All",
@@ -1199,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-stats.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-user.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-user.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/cards/_card-user.scss",
       "AssetKind": "All",
@@ -1216,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-user.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_buttons.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_buttons.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -1233,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_cards.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_cards.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/mixins/_cards.scss",
       "AssetKind": "All",
@@ -1250,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_cards.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_dropdown.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_dropdown.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/mixins/_dropdown.scss",
       "AssetKind": "All",
@@ -1267,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_dropdown.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_inputs.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_inputs.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/mixins/_inputs.scss",
       "AssetKind": "All",
@@ -1284,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_inputs.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_page-header.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_page-header.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/mixins/_page-header.scss",
       "AssetKind": "All",
@@ -1301,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_page-header.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_transparency.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_transparency.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/mixins/_transparency.scss",
       "AssetKind": "All",
@@ -1318,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_transparency.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_vendor-prefixes.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_vendor-prefixes.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/mixins/_vendor-prefixes.scss",
       "AssetKind": "All",
@@ -1335,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_vendor-prefixes.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-animate-bootstrap-notify.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-animate-bootstrap-notify.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/plugins/_plugin-animate-bootstrap-notify.scss",
       "AssetKind": "All",
@@ -1352,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-animate-bootstrap-notify.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-perfect-scrollbar.scss",
+      "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-perfect-scrollbar.scss",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/paper-dashboard/plugins/_plugin-perfect-scrollbar.scss",
       "AssetKind": "All",
@@ -1369,19 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-perfect-scrollbar.scss"
     },
     {
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\css\\site.css",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
-      "OriginalItemSpec": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\XiangXiang.bundle.scp.css"
-    },
-    {
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\css\\site.css",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1395,17 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\favicon.ico",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\favicon.ico",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1419,17 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\js\\site.js",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\js\\site.js",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1443,17 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1467,17 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1491,17 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1515,17 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1539,17 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1563,17 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1587,17 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1611,17 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1635,17 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1659,17 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1683,17 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1707,17 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1731,17 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1755,17 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1779,17 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1803,17 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1827,17 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1851,17 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1875,17 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1899,17 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1923,17 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1947,17 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1971,17 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1995,17 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2019,17 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2043,17 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2067,17 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2091,17 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2115,17 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2139,17 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2163,17 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2187,17 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2211,17 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2235,17 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2259,17 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2283,17 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2307,17 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2331,17 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2355,17 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2379,17 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2403,17 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2427,17 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2451,17 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2475,17 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2499,17 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2523,17 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2547,17 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2571,17 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2595,17 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2619,17 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2643,17 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2667,17 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2691,17 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2715,17 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2739,17 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2763,17 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2787,17 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "XiangXiang",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\iSpan\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
-=======
       "Identity": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "XiangXiang",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\iSpan\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
->>>>>>> develop-ads
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

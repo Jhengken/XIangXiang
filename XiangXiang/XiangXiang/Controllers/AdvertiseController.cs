@@ -7,11 +7,16 @@ namespace XiangXiang.Controllers
 {
     public class AdvertiseController : Controller
     {
+        private readonly dbXContext db;
+
+        public AdvertiseController(dbXContext dbXContext)
+        {
+            db = dbXContext;
+        }
         //廣告清單
         public IActionResult List()
         {
             IEnumerable<TAdvertise> advertises = null;
-            dbXContext db = new dbXContext();
             advertises = from t in db.TAdvertises
                          select new TAdvertise
                          {
@@ -30,7 +35,6 @@ namespace XiangXiang.Controllers
         [HttpPost]
         public IActionResult Create(TAdvertise advertise)
         {
-            dbXContext db = new dbXContext();
             db.TAdvertises.Add(advertise);
             db.SaveChanges();
             return RedirectToAction("List");
@@ -39,8 +43,7 @@ namespace XiangXiang.Controllers
         public IActionResult Edit(int? id)
         {
             if (id != null)
-            {
-                dbXContext db = new dbXContext();
+            {               
                 TAdvertise ad = db.TAdvertises.FirstOrDefault(t => t.AdvertiseId == id);
                 if (ad != null)
                     return View(ad);
@@ -50,7 +53,6 @@ namespace XiangXiang.Controllers
         [HttpPost]
         public IActionResult Edit(TAdvertiseViewModel ad)
         {
-            dbXContext db = new dbXContext();
             TAdvertise Editad = db.TAdvertises.FirstOrDefault(t => t.AdvertiseId == ad.AdvertiseId );
             if (Editad != null)
             {
@@ -65,7 +67,6 @@ namespace XiangXiang.Controllers
         {
             if (id != null)
             {
-                dbXContext db = new dbXContext();
                 TAdvertise Delcoupon = db.TAdvertises.FirstOrDefault(t => t.AdvertiseId == id);
                 if (Delcoupon != null)
                 {

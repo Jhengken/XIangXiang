@@ -9,9 +9,9 @@ namespace XiangXiang.Models
         //public partial class TProduct
         //{
         //}
-        [ModelMetadataTypeAttribute(typeof(TAdvertiseMetaData))]
-        public partial class TAdvertise
-        {
-        }
+        //[ModelMetadataTypeAttribute(typeof(TAdvertiseMetaData))]
+        //public partial class TAdvertise
+        //{
+        //}
     }
 }

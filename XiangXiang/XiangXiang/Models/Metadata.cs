@@ -14,11 +14,9 @@ namespace XiangXiang.Models
 
         public int ProductId { get; set; }
         public int? SupplierId { get; set; }
-<<<<<<< HEAD
+
         [DisplayName("註冊商品名稱")]
-=======
-        [DisplayName("產品名稱")]
->>>>>>> develop-ads
+
         public string Name { get; set; } = null!;
 
         public virtual TSupplier? Supplier { get; set; }
@@ -29,7 +27,7 @@ namespace XiangXiang.Models
     public partial class TProduct
     {
     }
-<<<<<<< HEAD
+
 
 
 
@@ -98,18 +96,6 @@ namespace XiangXiang.Models
     }
 
 
-
-    public class TAdvertiseMetadata
-    {
-        public TAdvertiseMetadata()
-        {
-            TAorders = new HashSet<TAorder>();
-        }
-
-        public int AdvertiseId { get; set; }
-        [DisplayName("廣告類型")]
-        public string Name { get; set; } = null!;
-=======
     
     public class TAdvertiseMetaData 
     {
@@ -121,13 +107,13 @@ namespace XiangXiang.Models
         [DisplayName("廣告類型")]
         public string Name { get; set; } = null!;
         [DisplayName("每日租金")]
->>>>>>> develop-ads
+
         public decimal? DatePrice { get; set; }
 
         public virtual ICollection<TAorder> TAorders { get; set; }
     }
-<<<<<<< HEAD
-    [ModelMetadataType(typeof(TAdvertiseMetadata))]
+
+    [ModelMetadataType(typeof(TAdvertiseMetaData))]
     public partial class TAdvertise
     {
     }
@@ -333,8 +319,4 @@ namespace XiangXiang.Models
     {
     }
 
-=======
-    //[ModelMetadataType(typeof(TAdvertiseMetaData))]
-    //public partial class TAdvertise { }
->>>>>>> develop-ads
 }
