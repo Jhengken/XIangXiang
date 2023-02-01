@@ -7,9 +7,10 @@ namespace XiangXiang.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+        private readonly dbXContext _conetxt;
+        public HomeController(ILogger<HomeController> logger, dbXContext conetxt)
         {
+            _conetxt = conetxt;
             _logger = logger;
         }
 

@@ -1,8 +1,15 @@
+using Microsoft.EntityFrameworkCore;
+using XiangXiang.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddSession();
+builder.Services.AddDbContext<dbXContext>(
+options => options.UseSqlServer(
+builder.Configuration.GetConnectionString("dbXConnection")
+));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
