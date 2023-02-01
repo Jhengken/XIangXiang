@@ -25,5 +25,6 @@ namespace XiangXiang.Controllers
                 t.Birth.ToString().Contains(vm.txtKeyword));
             return View(data);
         }
+
     }
 }
