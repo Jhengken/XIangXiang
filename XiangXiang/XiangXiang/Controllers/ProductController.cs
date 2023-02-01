@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using XiangXiang.Models;
 
 namespace XiangXiang.Controllers
@@ -27,14 +28,11 @@ namespace XiangXiang.Controllers
         {
             return View();
         }
-        public async Task<IActionResult> ProductEdit()
+        public IActionResult ProductEdit()
         {
-                TProduct data = null;
-            data = _conetxt.TProducts.FirstOrDefault();
-            if (!ModelState.IsValid)
-            {
-                return View(data);
-            }
+            TProduct data = null;
+            //data = _conetxt.TProducts.FirstOrDefault();
+
             return View(data);
         }
         [HttpPost]
@@ -51,6 +49,7 @@ namespace XiangXiang.Controllers
         //PSite
         public IActionResult PSiteList()
         {
+
             return View();
         }
         public IActionResult PSiteCreate()
@@ -85,6 +84,66 @@ namespace XiangXiang.Controllers
         public IActionResult PSiteRoomDelete()
         {
             return View();
+        }
+
+
+
+
+
+
+
+
+
+        public enum eMovieCategories { Action, Drama, Comedy, Science_Fiction };
+
+        private void SetViewBagMovieType(eMovieCategories selectedMovie)
+        {
+
+            IEnumerable<eMovieCategories> values =
+
+                              Enum.GetValues(typeof(eMovieCategories))
+
+                              .Cast<eMovieCategories>();
+
+            IEnumerable<SelectListItem> items =
+
+                from value in values
+
+                select new SelectListItem
+
+                {
+
+                    Text = value.ToString(),
+
+                    Value = value.ToString(),
+
+                    Selected = value == selectedMovie,
+
+                };
+
+            ViewBag.MovieType = items;
+
+        }
+
+        public ActionResult SelectCategoryEnum()
+        {
+
+            SetViewBagMovieType(eMovieCategories.Drama);
+
+            return View();
+
+        }
+        [HttpPost]
+
+        public ActionResult SelectCategoryEnum(string MovieType) //傳回來的是SelectListItem得value
+        {
+
+            ViewBag.messageString = MovieType.ToString() +
+
+                                    " val = "/* + (int)MovieType*/;
+            SetViewBagMovieType(eMovieCategories.Drama);
+            return View();
+
         }
     }
 }
