@@ -7,11 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-<<<<<<< HEAD
+
     <Content Remove="Views\Product\List.cshtml" />
-=======
+
     <Compile Remove="Models\MDictionary.cs" />
->>>>>>> feature/Supplier
+
   </ItemGroup>
 
   <ItemGroup>
