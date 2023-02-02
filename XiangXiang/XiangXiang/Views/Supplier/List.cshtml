@@ -7,9 +7,11 @@
 <h1>業者資料一覽表</h1>
 
 <p>
-    <a asp-action="Create">業者註冊</a>
+    <a asp-action="Create">新增業者</a>
 </p>
-<table class="table">
+
+ <table id="datatable" class="table table-striped table-bordered"
+                                                    style="width:100%">
     <thead>
         <tr>
             <th>
@@ -44,6 +46,8 @@
             int count = 0;
             foreach (var item in Model) {
                 count++;
+
+
         <tr>
             <td>
                 @count
