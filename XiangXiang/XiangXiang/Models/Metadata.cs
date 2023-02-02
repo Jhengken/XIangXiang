@@ -200,16 +200,24 @@ namespace XiangXiang.Models
             TEvaluations = new HashSet<TEvaluation>();
         }
 
+        [DisplayName("編號")]
         public int CustomerId { get; set; }
-        [DisplayName("顧客名稱")]
+        [DisplayName("名稱")]
         public string Name { get; set; } = null!;
+        [DisplayName("性別")]
         public bool? Sex { get; set; }
         public string? Email { get; set; }
+        [DisplayName("手機")]
         public string? Phone { get; set; }
+        [DisplayName("密碼")]
         public string? Password { get; set; }
+        [DisplayName("生日")]
         public DateTime? Birth { get; set; }
+        [DisplayName("信用卡")]
         public string? CreditCard { get; set; }
+        [DisplayName("信用積分")]
         public int? CreditPoints { get; set; }
+        [DisplayName("黑名單")]
         public bool? BlackListed { get; set; }
 
         public virtual ICollection<TCorder> TCorders { get; set; }

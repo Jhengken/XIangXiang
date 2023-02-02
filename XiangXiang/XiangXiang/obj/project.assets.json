@@ -10055,6 +10055,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\hpu97\\.nuget\\packages\\": {}
 =======
     "C:\\Users\\user\\.nuget\\packages\\": {}
@@ -10066,10 +10067,14 @@
 >>>>>>> feature/Coupon
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
 >>>>>>> feature/ADS
+=======
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
+>>>>>>> feature/Customer
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10114,6 +10119,16 @@
 >>>>>>> feature/Coupon
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
 >>>>>>> feature/ADS
+=======
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\XiangXiang.csproj",
+      "projectName": "XiangXiang",
+      "projectPath": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\XiangXiang.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> feature/Customer
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

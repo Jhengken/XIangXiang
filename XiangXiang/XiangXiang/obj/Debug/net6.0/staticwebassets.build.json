@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "Hash": "ILwqqRL3xNBO7YFrlAZhtQPNCPuuZtfprX/2y0YX2/s=",
 =======
   "Hash": "HyFutp3jknA+Cf48ip1Qao1ZP1Y8BOBOZhP+4gLJ3MY=",
@@ -13,6 +14,9 @@
 =======
   "Hash": "oJXluMtiDybjaX6s2andZXzED2jLWIfXCei5HcIhsC0=",
 >>>>>>> feature/Coupon
+=======
+  "Hash": "a4hFrJPev/7QchqDK6aA+Bw+9yVk5ASnxDT0oDbzErM=",
+>>>>>>> feature/Customer
   "Source": "XiangXiang",
   "BasePath": "_content/XiangXiang",
   "Mode": "Default",
@@ -22,6 +26,7 @@
     {
       "Name": "XiangXiang\\wwwroot",
       "Source": "XiangXiang",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -35,12 +40,16 @@
 =======
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -66,6 +75,12 @@
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\obj\\Debug\\net6.0\\scopedcss\\bundle\\XiangXiang.styles.css",
+      "SourceId": "XiangXiang",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "XiangXiang.styles.css",
       "AssetKind": "All",
@@ -76,6 +91,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -113,6 +129,15 @@
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
 >>>>>>> feature/Coupon
+=======
+      "OriginalItemSpec": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\obj\\Debug\\net6.0\\scopedcss\\bundle\\XiangXiang.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\XiangXiang.bundle.scp.css",
+      "SourceId": "XiangXiang",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "XiangXiang.bundle.scp.css",
       "AssetKind": "All",
@@ -123,6 +148,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -160,6 +186,15 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "OriginalItemSpec": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\XiangXiang.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/css/style.css",
       "AssetKind": "All",
@@ -173,6 +208,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -198,6 +234,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\css\\bootstrap.min.css.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/apple-touch-icon.png",
       "AssetKind": "All",
@@ -211,6 +253,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\apple-touch-icon.png"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -236,6 +279,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\css\\paper-dashboard.css",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/card.jpg",
       "AssetKind": "All",
@@ -249,6 +298,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\card.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -268,6 +318,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/ADS
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\css\\paper-dashboard.css.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/css/paper-dashboard.css.map",
       "AssetKind": "All",
@@ -281,6 +337,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\paper-dashboard.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\css\\paper-dashboard.min.css",
@@ -299,6 +356,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/ADS
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\css\\paper-dashboard.min.css",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/css/paper-dashboard.min.css",
       "AssetKind": "All",
@@ -312,6 +375,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\paper-dashboard.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\demo\\demo.css",
@@ -330,6 +394,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/ADS
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\demo\\demo.css",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/demo/demo.css",
       "AssetKind": "All",
@@ -343,6 +413,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\demo\\demo.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\demo\\demo.js",
@@ -361,6 +432,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/ADS
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\demo\\demo.js",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/demo/demo.js",
       "AssetKind": "All",
@@ -374,6 +451,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\demo\\demo.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\fonts\\nucleo-icons.eot",
@@ -392,6 +470,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/ADS
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\fonts\\nucleo-icons.eot",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/fonts/nucleo-icons.eot",
       "AssetKind": "All",
@@ -405,6 +489,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\nucleo-icons.eot"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\fonts\\nucleo-icons.ttf",
@@ -423,6 +508,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/ADS
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\fonts\\nucleo-icons.ttf",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/fonts/nucleo-icons.ttf",
       "AssetKind": "All",
@@ -436,6 +527,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\nucleo-icons.ttf"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\fonts\\nucleo-icons.woff",
@@ -454,6 +546,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/ADS
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\fonts\\nucleo-icons.woff",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/fonts/nucleo-icons.woff",
       "AssetKind": "All",
@@ -467,6 +565,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\nucleo-icons.woff"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\fonts\\nucleo-icons.woff2",
@@ -485,6 +584,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/ADS
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\fonts\\nucleo-icons.woff2",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/fonts/nucleo-icons.woff2",
       "AssetKind": "All",
@@ -498,6 +603,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\nucleo-icons.woff2"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\apple-icon.png",
@@ -516,6 +622,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/ADS
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\apple-icon.png",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/apple-icon.png",
       "AssetKind": "All",
@@ -529,6 +641,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\apple-icon.png"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\bg5.jpg",
@@ -547,6 +660,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/ADS
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\bg5.jpg",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/bg5.jpg",
       "AssetKind": "All",
@@ -560,6 +679,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\bg5.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\damir-bosnjak.jpg",
@@ -578,6 +698,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/ADS
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\damir-bosnjak.jpg",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/damir-bosnjak.jpg",
       "AssetKind": "All",
@@ -591,6 +717,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\damir-bosnjak.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\default-avatar.png",
@@ -609,6 +736,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/ADS
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\default-avatar.png",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/default-avatar.png",
       "AssetKind": "All",
@@ -622,6 +755,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\default-avatar.png"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\ayo-ogunseinde-1.jpg",
@@ -640,6 +774,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/ADS
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\ayo-ogunseinde-1.jpg",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/faces/ayo-ogunseinde-1.jpg",
       "AssetKind": "All",
@@ -653,6 +793,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\faces\\ayo-ogunseinde-1.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\ayo-ogunseinde-2.jpg",
@@ -671,6 +812,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/ADS
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\ayo-ogunseinde-2.jpg",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/faces/ayo-ogunseinde-2.jpg",
       "AssetKind": "All",
@@ -684,6 +831,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\faces\\ayo-ogunseinde-2.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\clem-onojeghuo-1.jpg",
@@ -702,6 +850,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/ADS
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\clem-onojeghuo-1.jpg",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/faces/clem-onojeghuo-1.jpg",
       "AssetKind": "All",
@@ -715,6 +869,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\faces\\clem-onojeghuo-1.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\clem-onojeghuo-2.jpg",
@@ -733,6 +888,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/ADS
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\clem-onojeghuo-2.jpg",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/faces/clem-onojeghuo-2.jpg",
       "AssetKind": "All",
@@ -746,6 +907,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\faces\\clem-onojeghuo-2.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\clem-onojeghuo-3.jpg",
@@ -764,6 +926,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/ADS
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\clem-onojeghuo-3.jpg",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/faces/clem-onojeghuo-3.jpg",
       "AssetKind": "All",
@@ -777,6 +945,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\faces\\clem-onojeghuo-3.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\clem-onojeghuo-4.jpg",
@@ -795,6 +964,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/ADS
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\clem-onojeghuo-4.jpg",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/faces/clem-onojeghuo-4.jpg",
       "AssetKind": "All",
@@ -808,6 +983,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\faces\\clem-onojeghuo-4.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\erik-lucatero-1.jpg",
@@ -826,6 +1002,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/ADS
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\erik-lucatero-1.jpg",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/faces/erik-lucatero-1.jpg",
       "AssetKind": "All",
@@ -839,6 +1021,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\faces\\erik-lucatero-1.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\erik-lucatero-2.jpg",
@@ -857,6 +1040,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/ADS
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\erik-lucatero-2.jpg",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/faces/erik-lucatero-2.jpg",
       "AssetKind": "All",
@@ -870,6 +1059,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\faces\\erik-lucatero-2.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\joe-gardner-1.jpg",
@@ -888,6 +1078,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/ADS
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\joe-gardner-1.jpg",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/faces/joe-gardner-1.jpg",
       "AssetKind": "All",
@@ -901,6 +1097,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\faces\\joe-gardner-1.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\joe-gardner-2.jpg",
@@ -919,6 +1116,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/ADS
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\joe-gardner-2.jpg",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/faces/joe-gardner-2.jpg",
       "AssetKind": "All",
@@ -932,6 +1135,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\faces\\joe-gardner-2.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\kaci-baum-1.jpg",
@@ -950,6 +1154,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/ADS
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\kaci-baum-1.jpg",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/faces/kaci-baum-1.jpg",
       "AssetKind": "All",
@@ -963,6 +1173,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\faces\\kaci-baum-1.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\kaci-baum-2.jpg",
@@ -981,6 +1192,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/ADS
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\faces\\kaci-baum-2.jpg",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/faces/kaci-baum-2.jpg",
       "AssetKind": "All",
@@ -994,6 +1211,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\faces\\kaci-baum-2.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\favicon.png",
@@ -1018,6 +1236,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\favicon.png",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/favicon.png",
       "AssetKind": "All",
@@ -1031,6 +1255,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\favicon.png"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1056,6 +1281,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\header.jpg",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/logo.png",
       "AssetKind": "All",
@@ -1069,6 +1300,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo.png"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1094,6 +1326,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\jan-sendereks.jpg",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/messages-1.jpg",
       "AssetKind": "All",
@@ -1107,6 +1345,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\messages-1.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1132,6 +1371,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\logo-small.png",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/messages-2.jpg",
       "AssetKind": "All",
@@ -1145,6 +1390,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\messages-2.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1170,6 +1416,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\img\\mike.jpg",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/messages-3.jpg",
       "AssetKind": "All",
@@ -1183,6 +1435,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\messages-3.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1208,6 +1461,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/news-1.jpg",
       "AssetKind": "All",
@@ -1221,6 +1480,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\news-1.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1246,6 +1506,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\js\\core\\jquery.min.js",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/news-2.jpg",
       "AssetKind": "All",
@@ -1259,6 +1525,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\news-2.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1284,6 +1551,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\js\\core\\popper.min.js",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/news-3.jpg",
       "AssetKind": "All",
@@ -1297,6 +1570,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\news-3.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1322,6 +1596,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\js\\paper-dashboard.js",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/news-4.jpg",
       "AssetKind": "All",
@@ -1335,6 +1615,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\news-4.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1360,6 +1641,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\js\\paper-dashboard.js.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/news-5.jpg",
       "AssetKind": "All",
@@ -1373,6 +1660,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\news-5.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1398,6 +1686,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\js\\paper-dashboard.min.js",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/not-found.svg",
       "AssetKind": "All",
@@ -1411,6 +1705,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\not-found.svg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1436,6 +1731,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\js\\plugins\\bootstrap-notify.js",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/product-1.jpg",
       "AssetKind": "All",
@@ -1449,6 +1750,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\product-1.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1474,6 +1776,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/product-2.jpg",
       "AssetKind": "All",
@@ -1487,6 +1795,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\product-2.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1512,6 +1821,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.jquery.min.js",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/product-3.jpg",
       "AssetKind": "All",
@@ -1525,6 +1840,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\product-3.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1550,6 +1866,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/product-4.jpg",
       "AssetKind": "All",
@@ -1563,6 +1885,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\product-4.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1588,6 +1911,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_alerts.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/product-5.jpg",
       "AssetKind": "All",
@@ -1601,6 +1930,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\product-5.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1626,6 +1956,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_animated-buttons.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/profile-img.jpg",
       "AssetKind": "All",
@@ -1639,6 +1975,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\profile-img.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1664,6 +2001,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_buttons.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/slides-1.jpg",
       "AssetKind": "All",
@@ -1677,6 +2020,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\slides-1.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1702,6 +2046,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_cards.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/slides-2.jpg",
       "AssetKind": "All",
@@ -1715,6 +2065,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\slides-2.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1740,6 +2091,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_checkboxes-radio.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/img/slides-3.jpg",
       "AssetKind": "All",
@@ -1753,6 +2110,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\slides-3.jpg"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1778,6 +2136,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_dropdown.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/js/main.js",
       "AssetKind": "All",
@@ -1791,6 +2155,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\main.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1816,6 +2181,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_fixed-plugin.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/scss/Readme.txt",
       "AssetKind": "All",
@@ -1829,6 +2200,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\Readme.txt"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1854,6 +2226,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_footers.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/apexcharts.min.js",
       "AssetKind": "All",
@@ -1867,6 +2245,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\apexcharts.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1892,6 +2271,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_images.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/ar.json",
       "AssetKind": "All",
@@ -1905,6 +2290,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\ar.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1930,6 +2316,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_inputs.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/ca.json",
       "AssetKind": "All",
@@ -1943,6 +2335,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\ca.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1968,6 +2361,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_misc.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/cs.json",
       "AssetKind": "All",
@@ -1981,6 +2380,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\cs.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2006,6 +2406,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_mixins.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/de.json",
       "AssetKind": "All",
@@ -2019,6 +2425,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\de.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2044,6 +2451,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_navbar.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/el.json",
       "AssetKind": "All",
@@ -2057,6 +2470,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\el.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2082,6 +2496,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_nucleo-outline.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/en.json",
       "AssetKind": "All",
@@ -2095,6 +2515,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\en.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2120,6 +2541,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_page-header.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/es.json",
       "AssetKind": "All",
@@ -2133,6 +2560,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\es.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2158,6 +2586,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_responsive.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/et.json",
       "AssetKind": "All",
@@ -2171,6 +2605,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\et.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2196,6 +2631,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_sidebar-and-main-panel.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/fa.json",
       "AssetKind": "All",
@@ -2209,6 +2650,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\fa.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2234,6 +2676,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_tables.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/fi.json",
       "AssetKind": "All",
@@ -2247,6 +2695,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\fi.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2272,6 +2721,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_typography.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/fr.json",
       "AssetKind": "All",
@@ -2285,6 +2740,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\fr.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2310,6 +2766,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\_variables.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/he.json",
       "AssetKind": "All",
@@ -2323,6 +2785,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\he.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2348,6 +2811,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-chart.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/hi.json",
       "AssetKind": "All",
@@ -2361,6 +2830,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\hi.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2386,6 +2856,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-map.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/hr.json",
       "AssetKind": "All",
@@ -2399,6 +2875,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\hr.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2424,6 +2901,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-plain.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/hu.json",
       "AssetKind": "All",
@@ -2437,6 +2920,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\hu.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2462,6 +2946,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-stats.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/hy.json",
       "AssetKind": "All",
@@ -2475,6 +2965,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\hy.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2500,6 +2991,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-user.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/id.json",
       "AssetKind": "All",
@@ -2513,6 +3010,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\id.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2538,6 +3036,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_buttons.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/it.json",
       "AssetKind": "All",
@@ -2551,6 +3055,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\it.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2576,6 +3081,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_cards.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/ja.json",
       "AssetKind": "All",
@@ -2589,6 +3100,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\ja.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2614,6 +3126,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_dropdown.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/ka.json",
       "AssetKind": "All",
@@ -2627,6 +3145,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\ka.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2652,6 +3171,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_inputs.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/ko.json",
       "AssetKind": "All",
@@ -2665,6 +3190,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\ko.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2690,6 +3216,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_page-header.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/lt.json",
       "AssetKind": "All",
@@ -2703,6 +3235,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\lt.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2728,6 +3261,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_transparency.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/lv.json",
       "AssetKind": "All",
@@ -2741,6 +3280,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\lv.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2766,6 +3306,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_vendor-prefixes.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/nb.json",
       "AssetKind": "All",
@@ -2779,6 +3325,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\nb.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2804,6 +3351,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-animate-bootstrap-notify.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/nl.json",
       "AssetKind": "All",
@@ -2817,6 +3370,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\nl.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2842,6 +3396,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-perfect-scrollbar.scss",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "assets/vendor/apexcharts/locales/pl.json",
       "AssetKind": "All",
@@ -2855,6 +3415,7 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\apexcharts\\locales\\pl.json"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9068,6 +9629,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\css\\site.css",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -9081,6 +9648,7 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9106,6 +9674,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\favicon.ico",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -9119,6 +9693,7 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9144,6 +9719,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\js\\site.js",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -9157,6 +9738,7 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9182,6 +9764,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -9195,6 +9783,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9220,6 +9809,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -9233,6 +9828,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9258,6 +9854,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -9271,6 +9873,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9296,6 +9899,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -9309,6 +9918,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9334,6 +9944,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -9347,6 +9963,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9372,6 +9989,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -9385,6 +10008,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9410,6 +10034,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -9423,6 +10053,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9448,6 +10079,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -9461,6 +10098,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9486,6 +10124,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -9499,6 +10143,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9524,6 +10169,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -9537,6 +10188,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9562,6 +10214,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -9575,6 +10233,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9600,6 +10259,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -9613,6 +10278,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9638,6 +10304,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -9651,6 +10323,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9676,6 +10349,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -9689,6 +10368,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9714,6 +10394,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -9727,6 +10413,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9752,6 +10439,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -9765,6 +10458,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9790,6 +10484,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -9803,6 +10503,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9828,6 +10529,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -9841,6 +10548,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9866,6 +10574,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -9879,6 +10593,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9904,6 +10619,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -9917,6 +10638,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9942,6 +10664,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -9955,6 +10683,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9980,6 +10709,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -9993,6 +10728,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10018,6 +10754,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -10031,6 +10773,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10056,6 +10799,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -10069,6 +10818,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10094,6 +10844,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -10107,6 +10863,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10132,6 +10889,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -10145,6 +10908,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10170,6 +10934,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -10183,6 +10953,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10208,6 +10979,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -10221,6 +10998,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10246,6 +11024,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -10259,6 +11043,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10284,6 +11069,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -10297,6 +11088,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10322,6 +11114,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -10335,6 +11133,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10360,6 +11159,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -10373,6 +11178,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10398,6 +11204,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -10411,6 +11223,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10436,6 +11249,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -10449,6 +11268,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10474,6 +11294,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -10487,6 +11313,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10512,6 +11339,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -10525,6 +11358,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10550,6 +11384,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -10563,6 +11403,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10588,6 +11429,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -10601,6 +11448,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10626,6 +11474,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -10639,6 +11493,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10664,6 +11519,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -10677,6 +11538,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10702,6 +11564,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -10715,6 +11583,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10740,6 +11609,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -10753,6 +11628,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10778,6 +11654,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -10791,6 +11673,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10816,6 +11699,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -10829,6 +11718,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10854,6 +11744,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -10867,6 +11763,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10892,6 +11789,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -10905,6 +11808,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10930,6 +11834,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -10943,6 +11853,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10968,6 +11879,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -10981,6 +11898,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11006,6 +11924,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -11019,6 +11943,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11044,6 +11969,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -11057,6 +11988,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11082,6 +12014,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -11095,6 +12033,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11120,6 +12059,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -11133,6 +12078,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11158,6 +12104,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -11171,6 +12123,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11196,6 +12149,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -11209,6 +12168,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11234,6 +12194,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -11247,6 +12213,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11272,6 +12239,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -11285,6 +12258,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11310,6 +12284,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\wwwroot\\",
 >>>>>>> feature/Coupon
+=======
+      "Identity": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "XiangXiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\XiangXiang\\XIangXiang\\XiangXiang\\wwwroot\\",
+>>>>>>> feature/Customer
       "BasePath": "_content/XiangXiang",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
