@@ -29,6 +29,10 @@ app.UseAuthorization();
 app.UseSession();
 app.MapControllerRoute(
     name: "default",
+<<<<<<< HEAD
     pattern: "{controller=Product}/{action=ProductEdit}/{id?}");
+=======
+    pattern: "{controller=Supplier}/{action=List}/{id?}");
+>>>>>>> feature/Supplier
 
 app.Run();

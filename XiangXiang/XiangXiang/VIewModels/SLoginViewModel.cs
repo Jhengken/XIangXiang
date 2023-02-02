@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿namespace XiangXiang.VIewModels
+=======
+﻿namespace XiangXiang.ViewModels
+>>>>>>> feature/Supplier
 {
     public class SLoginViewModel
     {

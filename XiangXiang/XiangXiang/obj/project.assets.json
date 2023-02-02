@@ -10052,11 +10052,16 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\hpu97\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\user\\.nuget\\packages\\": {}
+>>>>>>> feature/Supplier
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\XiangXiang.csproj",
       "projectName": "XiangXiang",
       "projectPath": "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\XiangXiang.csproj",
@@ -10065,6 +10070,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hpu97\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\XiangXiang\\XiangXiang\\XiangXiang\\XiangXiang.csproj",
+      "projectName": "XiangXiang",
+      "projectPath": "C:\\Users\\user\\Desktop\\XiangXiang\\XiangXiang\\XiangXiang\\XiangXiang.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\XiangXiang\\XiangXiang\\XiangXiang\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> feature/Supplier
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10128,7 +10143,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+>>>>>>> feature/Supplier
       }
     }
   }
