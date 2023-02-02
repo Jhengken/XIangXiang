@@ -14,7 +14,6 @@ namespace XiangXiang.Models
         }
 
         public int ProductId { get; set; }
-
         public int? SupplierId { get; set; }
         [DisplayName("註冊商品名稱")]
         [Required(ErrorMessage = "{0}不可為空!")]
