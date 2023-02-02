@@ -1,19 +1,26 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace XiangXiang.Models
 {
     [ModelMetadataType(typeof(TProductMetadata))]
     public partial class TProduct
     {
+        [NotMapped]
+        public string SupplierName { get; set; } = null!;
     }
     [ModelMetadataType(typeof(TPsiteRoomMetadata))]
     public partial class TPsiteRoom
     {
+        [NotMapped]
+        public IFormFile photo { get; set; }
     }
     [ModelMetadataType(typeof(TPsiteMetadata))]
     public partial class TPsite
     {
+        [NotMapped]
+        public IFormFile photo { get; set; }
     }
     [ModelMetadataType(typeof(TAdvertiseMetadata))]
     public partial class TAdvertise

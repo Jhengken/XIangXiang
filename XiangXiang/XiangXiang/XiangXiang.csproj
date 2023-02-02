@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="VIewModels\DropDownList.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Remove="Views\Product\List.cshtml" />
   </ItemGroup>
 
@@ -21,7 +25,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\images\" />
+    <Folder Include="wwwroot\images\PSiteRoom\" />
+    <Folder Include="wwwroot\images\PSite\" />
   </ItemGroup>
 
 </Project>

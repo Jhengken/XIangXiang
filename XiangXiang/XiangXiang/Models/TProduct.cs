@@ -15,7 +15,6 @@ namespace XiangXiang.Models
         public int ProductId { get; set; }
         public int? SupplierId { get; set; }
         public string Name { get; set; } = null!;
-
         public virtual TSupplier? Supplier { get; set; }
         public virtual ICollection<TCorder> TCorders { get; set; }
         public virtual ICollection<TPsite> TPsites { get; set; }

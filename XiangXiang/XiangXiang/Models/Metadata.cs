@@ -2,6 +2,7 @@
 using Microsoft.CodeAnalysis;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace XiangXiang.Models
 {
@@ -12,12 +13,14 @@ namespace XiangXiang.Models
             TCorders = new HashSet<TCorder>();
             TPsites = new HashSet<TPsite>();
         }
-
         public int ProductId { get; set; }
         public int? SupplierId { get; set; }
         [DisplayName("註冊商品名稱")]
-        [Required(ErrorMessage = "{0}不可為空!")]
+        [Required(ErrorMessage = "{0}欄位不可為空!")]
         public string Name { get; set; } = null!;
+        [DisplayName("業者")]
+        [Required(ErrorMessage = "{0}欄位不可為空!")]
+        public string SupplierName { get; set; }
 
         public virtual TSupplier? Supplier { get; set; }
         public virtual ICollection<TCorder> TCorders { get; set; }
@@ -43,14 +46,12 @@ namespace XiangXiang.Models
         public decimal? DatePrice { get; set; }
         [DisplayName("坪數")]
         public int? Ping { get; set; }
-        [DisplayName("圖片")]
+        [DisplayName("房間圖片")]
         public string? Image { get; set; }
         [DisplayName("租借狀態")]
         public bool? Status { get; set; }
         [DisplayName("描述")]
         public string? Description { get; set; }
-        public IFormFile photo { get; set; }
-
         public virtual TCategory? Category { get; set; }
         public virtual TPsite? Site { get; set; }
         public virtual ICollection<TCorderDetail> TCorderDetails { get; set; }
@@ -71,14 +72,16 @@ namespace XiangXiang.Models
         public int? ProductId { get; set; }
         [DisplayName("站點名稱")]
         public string Name { get; set; } = null!;
+        [DisplayName("站點圖片")]
         public string? Image { get; set; }
+        [DisplayName("開幕時間")]
         public string? OpenTime { get; set; }
         public string? Latitude { get; set; }
         public string? Longitude { get; set; }
+        [DisplayName("地址")]
         public string? Address { get; set; }
+        [DisplayName("站點描述")]
         public string? Description { get; set; }
-        public IFormFile photo { get; set; }
-
         public virtual TProduct? Product { get; set; }
         public virtual ICollection<TPsiteRoom> TPsiteRooms { get; set; }
     }

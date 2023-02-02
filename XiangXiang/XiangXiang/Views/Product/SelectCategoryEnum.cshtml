@@ -6,7 +6,13 @@
 <h1>SelectCategoryEnum</h1>
 @using (Html.BeginForm())
 {
-@Html.DropDownList("MovieType")
-<input type="submit">
+    @Html.TextBox("Movie","Movie",new { @list = "Movie" })
+    <datalist id="Movie">
+        @foreach (var o in ViewBag.MovieType)
+        {
+                <option value="@o.Value"></option>
+        }
+    </datalist>
+    <input type="submit">
 }
 @ViewBag.messageString

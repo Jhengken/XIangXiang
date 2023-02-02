@@ -7,7 +7,7 @@
 <h1>ProductList</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="ProductCreate">註冊商品名稱</a>
 </p>
 <table class="table">
     <thead>
@@ -37,9 +37,9 @@
                 @Html.DisplayFor(modelItem => item.Name)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                @Html.ActionLink("編輯修改", "ProductEdit", new { id=item.ProductId }) |
+                @Html.ActionLink("新增站點", "PSiteList", new { id=item.ProductId }) |
+                @Html.ActionLink("刪除", "ProductDelete","Product", new { id=item.ProductId },new {onclick="return confirm('確定要刪除嗎?')",style="color:red"})
             </td>
         </tr>
 }
