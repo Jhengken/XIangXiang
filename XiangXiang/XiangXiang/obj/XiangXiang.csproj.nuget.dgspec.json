@@ -3,6 +3,7 @@
   "restore": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\hpu97\\OneDrive\\Xiang\\XiangXiang\\XIangXiang\\XiangXiang\\XiangXiang.csproj": {}
   },
   "projects": {
@@ -27,8 +28,22 @@
         "packagesPath": "C:\\Users\\林宥辰\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\林宥辰\\Desktop\\真期末專題\\XiangXiang\\XiangXiang\\obj\\",
 >>>>>>> feature/ADS
+=======
+    "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\XiangXiang.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\XiangXiang.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\XiangXiang.csproj",
+        "projectName": "XiangXiang",
+        "projectPath": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\XiangXiang.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Acer\\Desktop\\專案\\XiangXiang\\XiangXiang\\obj\\",
+>>>>>>> feature/Coupon
         "projectStyle": "PackageReference",
         "configFilePaths": [
+<<<<<<< HEAD
 <<<<<<< HEAD
           "C:\\Users\\hpu97\\AppData\\Roaming\\NuGet\\NuGet.Config",
 =======
@@ -49,6 +64,9 @@
 >>>>>>> feature/Supplier
 =======
           "C:\\Users\\林宥辰\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> feature/Coupon
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
 >>>>>>> feature/ADS
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -116,6 +134,7 @@
           },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
 =======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
@@ -123,6 +142,9 @@
 =======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
 >>>>>>> feature/ADS
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+>>>>>>> feature/Coupon
         }
       }
     }
