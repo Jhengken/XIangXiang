@@ -29,6 +29,8 @@ app.UseAuthorization();
 app.UseSession();
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Product}/{action=PSiteList}/{id?}");
+    pattern: "{controller=Product}/{action=ProductEdit}/{id?}");
+
+
 
 app.Run();

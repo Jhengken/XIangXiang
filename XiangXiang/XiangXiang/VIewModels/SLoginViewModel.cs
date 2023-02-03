@@ -1,4 +1,5 @@
-﻿namespace XiangXiang.VIewModels
+namespace XiangXiang.ViewModels
+
 {
     public class SLoginViewModel
     {

@@ -7,11 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="VIewModels\DropDownList.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Content Remove="Views\Product\List.cshtml" />
   </ItemGroup>
 
   <ItemGroup>
