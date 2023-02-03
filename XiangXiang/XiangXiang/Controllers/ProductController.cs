@@ -114,50 +114,61 @@ namespace XiangXiang.Controllers
             _conetxt.SaveChanges();
             return RedirectToAction("PSiteList");
         }
-        //public IActionResult PSiteEdit()
-        //{
-        //    if (id != null)
-        //    {
-        //        dbXContext db = new dbXContext();
-        //        Product x = db.Products.FirstOrDefault(t => t.ProductId.Equals(id));
-        //        if (x != null)
-        //        {
-        //            return View(x);
-        //        }
-        //    }
-        //    return View("PSiteList");
-        //}
-        //[HttpPost]
-        //public IActionResult PSiteEdit(TPsite tp)
-        //{
-        //    dbXContext db = new dbXContext();
-        //    Product x = db.Products.FirstOrDefault(t => t.ProductId == vm.ProductId);
-        //    if (x != null)
-        //    {
-        //        if (vm.photo != null)
-        //        {
-        //            string photoName = DateTime.Now.ToString("yyyyMMddHHmmssfffffff") + ".jpg";
-        //            string path = _environment.WebRootPath + "/images/" + photoName;  //Path.Combine(_environment.WebRootPath, "/images/", photoName); 嘗試用combine看起來乾淨
-        //            if (x.Image != null)                        //刪除原有的檔案
-        //            {
-        //                GC.Collect();
-        //                GC.WaitForPendingFinalizers();
-        //                string del = _environment.WebRootPath + "/images/" + x.Image.ToString();
-        //                //ContorllerBase也有定義File所以要加System.IO.來準確使用
-        //                System.IO.File.Delete(del);            //靜態，所以沒有dispose
-        //            }
-        //            x.Image = photoName;
-        //            vm.photo.CopyTo(new FileStream(path, FileMode.Create));
-        //        }
-        //        x.Name = vm.Name;
-        //        x.UnitPrice = vm.UnitPrice;
-        //        db.SaveChangesAsync();
-        //    }
-        //    return RedirectToAction("PSiteList");
-        //}
-        public IActionResult PSiteDelete()
+        public IActionResult PSiteEdit(int? id)
         {
-            return View();
+            if (id != null)
+            {
+                TPsite x = _conetxt.TPsites.FirstOrDefault(t => t.SiteId.Equals(id));
+                if (x != null)
+                {
+                    return View(x);
+                }
+            }
+            return View("PSiteList");
+        }
+        [HttpPost]
+        public IActionResult PSiteEdit(TPsite tp)
+        {
+            TPsite x = _conetxt.TPsites.FirstOrDefault(t => t.SiteId == tp.SiteId);
+            if (x != null)
+            {
+                if (tp.photo != null)
+                {
+                    string photoName = DateTime.Now.ToString("yyyyMMddHHmmssfffffff") + ".jpg";
+                    string path = Path.Combine(_environment.WebRootPath, "images", "PSite", photoName);
+                    if (x.Image != null)                        //刪除原有的檔案
+                    {
+                        GC.Collect();
+                        GC.WaitForPendingFinalizers();
+                        string del = _environment.WebRootPath + "/images/" + x.Image.ToString();
+                        //ContorllerBase也有定義File所以要加System.IO.來準確使用
+                        System.IO.File.Delete(del);            //靜態，所以沒有dispose
+                    }
+                    x.Image = photoName;
+                    tp.photo.CopyTo(new FileStream(path, FileMode.Create));
+                }
+                x.Name = tp.Name;
+                x.Address = tp.Address;
+                x.Description = tp.Description;
+                x.Latitude = tp.Latitude;
+                x.Longitude = tp.Longitude;
+                x.OpenTime = tp.OpenTime;
+                _conetxt.SaveChangesAsync();
+            }
+            return RedirectToAction("PSiteList");
+        }
+        public IActionResult PSiteDelete(int? id)
+        {
+            if (id != null)
+            {
+                TPsite del = _conetxt.TPsites.FirstOrDefault(t => t.SiteId == id);
+                if (del != null)
+                {
+                    _conetxt.TPsites.Remove(del);
+                    _conetxt.SaveChangesAsync();
+                }
+            }
+            return RedirectToAction("PSiteList");
         }
 
 
