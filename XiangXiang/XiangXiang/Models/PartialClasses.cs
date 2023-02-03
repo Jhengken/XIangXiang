@@ -29,6 +29,10 @@ namespace XiangXiang.Models
     [ModelMetadataType(typeof(TAorderMetadata))]
     public partial class TAorder
     {
+        [NotMapped]
+        public string? advertiseName { get; set; }
+        [NotMapped]
+        public string? supplierName { get; set; }
     }
     [ModelMetadataType(typeof(TCategoryMetadata))]
     public partial class TCategory

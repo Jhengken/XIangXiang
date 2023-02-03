@@ -30,6 +30,13 @@ namespace XiangXiang.Controllers
         {
             return View();
         }
+        [HttpPost]
+        public IActionResult Create(TCoupon t)
+        {
+            db.TCoupons.Add(t);
+            db.SaveChangesAsync();
+            return RedirectToAction("List");
+        }
         public IActionResult Edit(int? id)
         {
             if (id != null)
@@ -59,12 +66,6 @@ namespace XiangXiang.Controllers
 
 
         }
-        [HttpPost]
-        public IActionResult Create(TCoupon t)
-        {
-            db.TCoupons.Add(t);
-            db.SaveChangesAsync();
-            return View();
-        }
+
     }
 }
