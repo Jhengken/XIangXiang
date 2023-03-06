@@ -10,7 +10,7 @@ builder.Services.AddDbContext<dbXContext>(
 options => options.UseSqlServer(
 builder.Configuration.GetConnectionString("dbXConnection")
 ));
-var app = builder.Build();
+var app = builder.Build();         //這要放最後
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
